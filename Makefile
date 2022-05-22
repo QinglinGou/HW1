@@ -1,2 +1,2 @@
 app:
-	python -B src/app.py
+	python -B code/.py
