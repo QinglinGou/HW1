@@ -4,7 +4,7 @@
 
 
 ## Q2.Use Seaborn with the Smarket dataset (in the rdata repo) to recreate Figure 1.2 in the book from the original (messy) dataframe.
-<img src="figure/recreate 1.2 messy.jpg" width="800">
+<img src="figure/figure1.2 messy.jpg" width="800">
 
 
 
