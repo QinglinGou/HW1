@@ -15,3 +15,9 @@
 
 ## Q4.Recreate Figure 1.2 with Seaborn using the tidy form of the Smarket dataset.
 <img src="figure/recreate 1.2 tidy.jpg" width="800">
+
+
+Recreate the figure (above) with:
+```
+make app
+```
